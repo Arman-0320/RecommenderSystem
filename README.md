@@ -1,4 +1,4 @@
-# RecommenderSystem
+# Recommender System for Movies
 In this notebook, I have built 4 different recommendation engines based on different ideas and algorithms. They are as follows:
 
 1. Simple Recommender: This system used overall TMDB Vote Count and Vote Averages to build Top Movies Charts, in general and for a specific genre. The IMDB Weighted Rating System was used to calculate ratings on which the sorting was finally performed.
